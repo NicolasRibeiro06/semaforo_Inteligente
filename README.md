@@ -20,8 +20,9 @@ então, após várias entativas no tinkercard e no Arduino uno.
 <hr>
 
 ### Também, todo o processo da maquete em fotos:
+<hr>
 
-### Materiais utilizados:
+### Materiais usados:
 
 <hr>
 
