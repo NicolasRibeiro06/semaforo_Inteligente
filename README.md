@@ -1,4 +1,4 @@
-## Projeto Semáforo inteligente
+# Projeto Semáforo inteligente
 
 ## <pre>Feito por: [Nicolas Ribeiro](https://github.com/NicolasRibeiro06 "Nicolas Ribeiro"), [Barbara Cardoso](https://github.com/Babicardoso "Barbara Cardoso"), <br>[Miguel caparroz](https://github.com/MiguelCaparrozNeves "Miguel Caparroz"), [Riquelme Reis](https://github.com/riquelmereis "Riquelme Reis"), [Gustavo Cruz](https://github.com/gustavocruz-11 "Gustavo cruz") e [Sarah Mendonça](https://github.com/SarahhMendonca "Sarah Mendonça").
 # SPRINT 1 
@@ -20,6 +20,8 @@ então, após várias entativas no tinkercard e no Arduino uno.
 <hr>
 
 ### Também, todo o processo da maquete em fotos:
+
+### Materiais utilizados:
 
 <hr>
 
