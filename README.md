@@ -15,8 +15,14 @@ Além disso, foi possível fazer uma lista de materiais para a execução do pro
 Na nossa Sprint 3, começamos a montagem da mmaquete, nossa representação física do projeto, tivemos algumas dificuldades de encaixe dos códigos do Arduino umo, porém seguimos com nossoa ideia principal.
 então, após várias entativas no tinkercard e no Arduino uno.
 
-## O projeto, em tinkercard resultou nisso:
+### O projeto, em tinkercard resultou nisso:
 
-## Também, todo o processo da maquete em fotos:
+<hr>
 
-## Código ara o funcionamneto do projeto
+### Também, todo o processo da maquete em fotos:
+
+<hr>
+
+### Código para o funcionamneto do projeto:
+
+<hr>
