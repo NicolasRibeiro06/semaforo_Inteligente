@@ -26,3 +26,6 @@ então, após várias entativas no tinkercard e no Arduino uno.
 ### Código para o funcionamneto do projeto:
 
 <hr>
+
+#### Conseguimos, portanto, concluir o desafio feito pela ABC Technology e assim, propor uma solução ao trânsito da cidade de Santo André.
+#### Adquirimos durante o processo de confecção, tanto da maquete, quanto dos códigos, um melhor conhecimento de Arduino e da linguagem utilizada (C++).
