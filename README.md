@@ -9,7 +9,7 @@ Neste documento, apresentamos nossa proposta para combater o grande congestionam
 <hr>
 
 # SPRINT 2 E 3
-### Sprint 2: Mudança de Escopo e Planejamento
+## Sprint 2: Mudança de Escopo e Planejamento
 ## Na Sprint 2, mudamos nossa ideia inicial para focar no apoio a casos de violência contra a mulher por meio do nosso projeto. Com o passar das aulas, compreendemos o funcionamento de ferramentas essenciais para o desenvolvimento, como o Arduino e o Tinkercad.hr
 
 <hr>
