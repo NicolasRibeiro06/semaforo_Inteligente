@@ -64,13 +64,7 @@ Bateria Elgin 9v. <li>
 Cabo USB. <li>
 Resistor.
 Sensor Ultrassônico - HC-SR04;
-
-
-<hr>
-
-### [Código]("https://github.com/NicolasRibeiro06/semaforo_Inteligente/tree/main/assents Código") para o funcionamento do projeto:
-C++
-// 
+ 
 <hr>
 Conclusão
 Conseguimos, portanto, concluir o desafio proposto pela ABC Technology e, assim, apresentar uma solução para a região de São Paulo. Durante o processo de confecção da maquete e do desenvolvimento dos códigos, adquirimos um conhecimento muito mais sólido sobre o Arduino e a linguagem utilizada (C++).
