@@ -38,5 +38,5 @@ C++
 // 
 <hr>
 Conclusão
-Conseguimos, portanto, concluir o desafio proposto pela ABC Technology e, assim, apresentar uma solução para a cidade de Santo André. Durante o processo de confecção da maquete e do desenvolvimento dos códigos, adquirimos um conhecimento muito mais sólido sobre o Arduino e a linguagem utilizada (C++).
+Conseguimos, portanto, concluir o desafio proposto pela ABC Technology e, assim, apresentar uma solução para a região de São Paulo. Durante o processo de confecção da maquete e do desenvolvimento dos códigos, adquirimos um conhecimento muito mais sólido sobre o Arduino e a linguagem utilizada (C++).
 <hr>
