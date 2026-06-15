@@ -24,7 +24,7 @@ Arduino Uno.
 
 # Sprint 3: Montagem e Testes
 
-## Na Sprint 3, começamos a montagem da maquete, que é a nossa representação física do projeto. Tivemos algumas dificuldades para ajustar os códigos no Arduino Uno, mas seguimos firmes com a nossa ideia principal. Após várias tentativas de simulação no Tinkercad e de testes no Arduino Uno, substituímos o Push Button por mal funcionamento e assim alcançamos o nosso objetivo.
+## Na Sprint 3, começamos a montagem da maquete, que é a nossa representação física do projeto. Tivemos algumas dificuldades para ajustar os códigos no Arduino Uno, mas seguimos firmes com a nossa ideia principal. Após várias tentativas de simulação no Tinkercad e de testes no Arduino Uno, substituímos o Push Button pelo sensor ultrassônico por mal funcionamento e assim alcançamos o nosso objetivo.
 
 ### O projeto no Tinkercad resultou nisto:
 <hr>
@@ -62,7 +62,8 @@ Protoboard. <li>
 Conector de Bateria. <li>
 Bateria Elgin 9v. <li>
 Cabo USB. <li>
-Resistor. 
+Resistor.
+Sensor Ultrassônico - HC-SR04;
 
 
 <hr>
