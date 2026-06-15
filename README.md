@@ -68,7 +68,7 @@ Sensor Ultrassônico - HC-SR04;
 
 <hr>
 
-### Código para o funcionamento do projeto:
+### [Código]("https://github.com/NicolasRibeiro06/semaforo_Inteligente/tree/main/assents Código") para o funcionamento do projeto:
 C++
 // 
 <hr>
