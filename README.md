@@ -37,15 +37,6 @@ C++
 // 
 <hr>
 
-### Para a programação:
-<li> Arduino Uno. 
-Cabos jumpers. <li>
-4 Módulo Led 8mm tipo Semáforo. <li>
-Protoboard. <li>
-Conector de Bateria. <li>
-Bateria Elgin 9v. <li>
-Cabo USB. <li>
-Resistor. 
 ### Materiais utilizados:
 ### Para a confecção da maquete:
 <li> Papelões, caixa de leite; <li>
