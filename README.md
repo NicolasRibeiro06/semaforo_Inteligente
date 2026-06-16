@@ -30,6 +30,14 @@ Arduino Uno.
 <hr>
 
 ### Fotos do processo de montagem da maquete:
+---
+<p align="justify">
+  <img src="https://github.com/NicolasRibeiro06/semaforo_Inteligente/blob/main/assents/IMG-20260615-WA0004.jpg" alt="Confecção Maquete 1" />
+  <br> <br> <br>
+  <img src="https://github.com/NicolasRibeiro06/semaforo_Inteligente/blob/main/assents/IMG-20260615-WA0002.jpg" alt="Confecção Maquete 2" />
+  <br> <br> <br>
+  <img src="https://github.com/NicolasRibeiro06/semaforo_Inteligente/blob/main/assents/IMG-20260615-WA0005.jpg" alt="Confecção Maquete 3" />
+  <br> <br> <br>
 <hr>
 
 ### Código para o funcionamento do projeto:
